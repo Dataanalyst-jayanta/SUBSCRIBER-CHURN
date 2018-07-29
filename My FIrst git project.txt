@@ -1,0 +1,15 @@
+Welcome to My Git repository
+
+dashbja@BADASHBJA MINGW64 /d/GIT REPOSITORY/Git Bash Here (master)
+$ git init
+Initialized empty Git repository in D:/GIT REPOSITORY/Git Bash Here/.git/
+
+dashbja@BADASHBJA MINGW64 /d/GIT REPOSITORY/Git Bash Here (master)
+$ git clone "https://github.com/Dataanalyst-jayanta/SUBSCRIBER-CHURN.git"
+Cloning into 'SUBSCRIBER-CHURN'...
+warning: You appear to have cloned an empty repository.
+
+dashbja@BADASHBJA MINGW64 /d/GIT REPOSITORY/Git Bash Here (master)
+$
+
+
